@@ -1,0 +1,8 @@
+MX6ULL_ATK_EMMC BOARD
+M:	Peng Fan <peng.fan@nxp.com>
+S:	Maintained
+F:	board/nxp/mx6ull_atk_emmc/
+F:	include/configs/mx6ull_atk_emmc.h
+F:	configs/mx6ull_14x14_atk_defconfig
+F:	configs/mx6ull_14x14_evk_plugin_defconfig
+F:	configs/mx6ulz_14x14_evk_defconfig
